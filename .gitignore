@@ -1,0 +1,38 @@
+# Unreal generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# IDE and local machine files
+*.sln
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.tmp
+*.log
+
+# Build/package outputs
+Releases/
+PackagedBuilds/
+Windows/
+WindowsNoEditor/
+
+# Third-party, sample, marketplace, and course assets intentionally omitted
+# from this public portfolio repository. Restore these locally from their
+# original licensed sources if you need to run the full prototype.
+Content/Characters/
+Content/Collections/
+Content/Developers/
+Content/LevelPrototyping/
+Content/Mixamo/
+Content/ParagonGreystone/
+Content/ParagonKwang/
+Content/ParagonSevarog/
+Content/Realistic_Starter_VFX_Pack_Vol2/
+Content/CombatSystem/CourseFiles/
